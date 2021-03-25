@@ -9,3 +9,5 @@ TMDB_API_KEY -> needs to be put in toutes/api-key.js or set this env
     module.exports.apiKey = apiKey;
 
 DATABASE_URL -> either local or an Atlas string
+
+PORT -> default is 8000 iif not set
