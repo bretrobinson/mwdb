@@ -3,7 +3,7 @@ Movie Warning Database
 
 Need to set ENVs:
 
-TMDB_API_KEY -> needs to be put in toutes/api-key.js or set this env
+TMDB_API_KEY -> needs to be put in routers/api-key.js or set this env
 
   api-key.js:
   
@@ -12,4 +12,4 @@ TMDB_API_KEY -> needs to be put in toutes/api-key.js or set this env
 
 DATABASE_URL -> either local or an Atlas string
 
-PORT -> default is 8000 iif not set
+PORT -> default is 8000 if not set
